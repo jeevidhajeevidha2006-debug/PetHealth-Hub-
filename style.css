@@ -131,3 +131,8 @@ footer {
         grid-template-columns: 1fr;
     }
 }
+.feature-link {
+    text-decoration: none;
+    color: inherit;
+    display: block;
+}
